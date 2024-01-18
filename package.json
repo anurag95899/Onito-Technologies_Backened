@@ -1,0 +1,22 @@
+{
+  "name": "backend-project-onito-company",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "app": "nodemon Backend/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.7.1",
+    "node": "^21.2.0",
+    "nodemon": "^3.0.3",
+    "uuid": "^9.0.1"
+  }
+}
